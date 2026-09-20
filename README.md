@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Animated Typing Intro -->
-  <img src="https://demolab.com👋+Hi,+I'm+Dipak+Sonawane!;🚀+Full-Stack+Developer;☁️+Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <!-- Animated Typing Intro Effect -->
+  <img src="https://demolab.com" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://shields.io🎯_STATUS-FOCUSING_ON_GROWTH-00FFCC?style=for-the-badge&logo=target&logoColor=black" alt="Focus Status" />
@@ -46,7 +46,7 @@
   
   <!-- Frameworks & Infrastructure -->
   <img src="https://shields.ioflask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://shields.iomysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://shields.iomysql-%23005b87.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://shields.iokubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://shields.iogit-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -79,9 +79,3 @@
 </div>
 ```
 
-### 💫 What Makes This Version Cooler:
-* **Dynamic Typing Intro:** Uses an embedded SVG engine to display an active, animating text typing block at the very top of your page.
-* **Tokyo Night Glow:** The live status cards and streaks are configured with the `tokyonight` aesthetic, giving it a vibrant dark-mode neon pop that fits right into GitHub.
-* **Unified Layout:** Badges and metric windows are aligned side-by-side inside markdown tables to prevent vertical crowding.
-
-Would you like me to add a **custom neon header banner image** or include **live repository pin designs** next?
