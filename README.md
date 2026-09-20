@@ -1,65 +1,87 @@
-# 👋 Hi, I'm Dipak Sonawane!
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+  <!-- Animated Typing Intro -->
+  <img src="https://demolab.com👋+Hi,+I'm+Dipak+Sonawane!;🚀+Full-Stack+Developer;☁️+Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://shields.io🎯_Continuous_Learning-39D353?style=for-the-badge&logoColor=white" alt="Focusing Status" />
+  <p align="center">
+    <img src="https://shields.io🎯_STATUS-FOCUSING_ON_GROWTH-00FFCC?style=for-the-badge&logo=target&logoColor=black" alt="Focus Status" />
+  </p>
+
+  <samp>
+    <h3>⚡ Transforming coffee into clean code and automated pipelines ⚡</h3>
+  </samp>
+
+  <p align="center">
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://shields.ioLinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://leetcode.com" target="_blank">
+      <img src="https://shields.io-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 🌌 About Me
+
+```🎯 Active Focus: Building intelligent systems and mastering infrastructure as code.```
+
+- ⚙️ **Backend Core:** Designing robust systems utilizing Flask, Python, and microservices architecture.
+- 📦 **DevOps Journey:** Managing and automating deployments via Kubernetes manifests and cloud-build environments.
+- 💾 **Data Management:** Structuring optimized relational schemas using MySQL and advanced database querying.
+
+---
+
+### 💻 Technologies & Frameworks
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.iopython-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://shields.iohtml5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://shields.iocss3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://shields.iojavascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <br/>
+  
+  <!-- Frameworks & Infrastructure -->
+  <img src="https://shields.ioflask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://shields.iomysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://shields.iokubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://shields.iogit-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a passionate developer focused on building efficient web applications, managing databases, and exploring cloud architectures. I love solving problems on LeetCode and continuously sharpening my software engineering toolkit.
+### 📊 Real-Time Matrix
 
-- 🎯 **Current Focus:** Advanced backend architectures and DevOps pipelines.
-- 💼 **Open To:** Collaboration on open-source Python and Full-Stack projects.
-- 🧠 **Fun Fact:** I love turning complex logic into simple, user-friendly applications.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>Languages</strong><br/><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td align="center" width="25%">
-      <strong>Frameworks & DBs</strong><br/><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-    <td align="center" width="25%">
-      <strong>DevOps & Cloud</strong><br/><br/>
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://vercel.app" alt="Dipak's Stats" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://vercel.app" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
+</div>
 
 ---
 
-### 📊 GitHub Stats & Metrics
+<div align="center">
+  <sub>🚀 Powered by Markdown Magic & Open Source Passion</sub>
+</div>
+```
 
-<p align="center">
-  <img src="https://vercel.app" alt="Dipak's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+### 💫 What Makes This Version Cooler:
+* **Dynamic Typing Intro:** Uses an embedded SVG engine to display an active, animating text typing block at the very top of your page.
+* **Tokyo Night Glow:** The live status cards and streaks are configured with the `tokyonight` aesthetic, giving it a vibrant dark-mode neon pop that fits right into GitHub.
+* **Unified Layout:** Badges and metric windows are aligned side-by-side inside markdown tables to prevent vertical crowding.
 
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://shields.io" alt="LeetCode" />
-  </a>
-</p>
+Would you like me to add a **custom neon header banner image** or include **live repository pin designs** next?
